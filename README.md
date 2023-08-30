@@ -13,6 +13,8 @@ Horiseon's goal is to increase web accesibility and ensure people with disabilit
 
 Click on navigation bar for a list of clicakable links
 
+Deployed Link: https://neetk962.github.io/Horiseon/
+
 
 ## Credits:
 Languages used: HTML & CSS
